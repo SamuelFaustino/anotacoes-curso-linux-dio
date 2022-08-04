@@ -2,7 +2,7 @@
 
 VmWare **Workstation 16.0 Player para Linux:** (https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
 
-Apostilas: [https://guiafoca.org/#download](https://guiafoca.org/#download)
+Apostilas: [https://guiafoca.org/#download]
 
 JSLINUX: [https://bellard.org/jslinux/](https://bellard.org/jslinux/)
 
