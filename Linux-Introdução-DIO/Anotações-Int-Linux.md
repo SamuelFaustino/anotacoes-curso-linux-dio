@@ -1,4 +1,5 @@
 ## Links
+
 VmWare **Workstation 16.0 Player para Linux:** [https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
 
 Apostilas: [https://guiafoca.org/#download](https://guiafoca.org/#download)
@@ -8,6 +9,8 @@ JSLINUX: [https://bellard.org/jslinux/](https://bellard.org/jslinux/)
 Diretorios linux: [https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html](https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html)
 
 [Como fazer upgrade do kernel no Debian](https://elias.praciano.com/2015/12/como-fazer-upgrade-do-kernel-no-debian/) : [https://elias.praciano.com/2015/12/como-fazer-upgrade-do-kernel-no-debian/](https://elias.praciano.com/2015/12/como-fazer-upgrade-do-kernel-no-debian/)
+
+---
 
 ### 5.1 Fundamentos de Redes
 
