@@ -4,9 +4,9 @@ VmWare **Workstation 16.0 Player para Linux:** https://www.vmware.com/br/product
 
 Apostilas: https://guiafoca.org/#download
 
-JSLINUX: [https://bellard.org/jslinux/](https://bellard.org/jslinux/)
+JSLINUX: https://bellard.org/jslinux/
 
-Diretorios linux: [https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html](https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html)
+Diretorios linux: https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html
 
 [Como fazer upgrade do kernel no Debian](https://elias.praciano.com/2015/12/como-fazer-upgrade-do-kernel-no-debian/)
 
